@@ -1,2 +1,6 @@
 .venv/
 .DS_store
+lecture2.ipynb
+.python-version
+pyproject.toml
+.gitignore
